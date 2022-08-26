@@ -1,13 +1,20 @@
 ---
+abbrlink: 1389847982
+alias: 2019/01/22/Best-practice-on-when-to-use-the-wrapper-class-and-primitive-type-in-Java/index.html
 categories:
-  - java
+- java
 date: '2019-01-22T21:52:33'
 description: ''
 tags:
-  - wrapper class
-  - primitive type
+- wrapper class
+- primitive type
 title: Best practice on when to use the wrapper class and primitive type in Java
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 2680367260
+alias: 2016/03/16/做一名合格的DBA/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-16T10:59:00'
 description: ''
 tags:
-  - DBA
-  - Oracle
+- DBA
+- Oracle
 title: 做一名合格的DBA
 ---
+
+
+
+
+
 
 
 ------

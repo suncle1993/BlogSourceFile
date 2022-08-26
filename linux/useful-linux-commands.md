@@ -1,13 +1,20 @@
 ---
+abbrlink: 3933887909
+alias: 2019/03/30/useful-linux-commands/index.html
 categories:
-  - linux
+- linux
 date: '2019-03-30T01:00:15'
 description: ''
 tags:
-  - Linux
-  - Bash
+- Linux
+- Bash
 title: 常用Linux命令集锦
 ---
+
+
+
+
+
 
 
 

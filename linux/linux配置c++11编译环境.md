@@ -1,14 +1,21 @@
 ---
+abbrlink: 2076160278
+alias: 2016/12/29/linux配置c++11编译环境/index.html
 categories:
-  - linux
+- linux
 date: '2016-12-29T14:39:17'
 description: ''
 tags:
-  - Linux
-  - C++
-  - C++11
+- Linux
+- C++
+- C++11
 title: linux配置c++11编译环境
 ---
+
+
+
+
+
 
 
 

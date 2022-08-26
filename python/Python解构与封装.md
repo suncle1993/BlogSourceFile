@@ -1,14 +1,21 @@
 ---
+abbrlink: 2276895921
+alias: 2016/12/23/Python解构与封装/index.html
 categories:
-  - python
+- python
 date: '2016-12-23T23:45:40'
 description: ''
 tags:
-  - Python
-  - 解构
-  - 封装
+- Python
+- 解构
+- 封装
 title: Python解构与封装
 ---
+
+
+
+
+
 
 
 

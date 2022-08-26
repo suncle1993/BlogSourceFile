@@ -1,15 +1,22 @@
 ---
+abbrlink: 2114861712
+alias: 2018/02/06/Python-Google-Protocol-Buffer/index.html
+categories:
+- python
 date: '2018-02-06T17:36:47'
 description: ''
 tags:
-  - Python
-  - Google
-  - PB
-  - Protocol Buffer
+- Python
+- Google
+- PB
+- Protocol Buffer
 title: Python Google Protocol Buffer
-categories:
-  - python
 ---
+
+
+
+
+
 
 
 

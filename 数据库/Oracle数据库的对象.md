@@ -1,13 +1,20 @@
 ---
+abbrlink: 3723584290
+alias: 2016/02/19/Oracle数据库的对象/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-02-19T17:04:15'
 description: ''
 tags:
-  - Oracle
-  - 对象
+- Oracle
+- 对象
 title: Oracle数据库的对象
 ---
+
+
+
+
+
 
 
 

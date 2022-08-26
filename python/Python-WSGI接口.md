@@ -1,13 +1,20 @@
 ---
+abbrlink: 501648532
+alias: 2017/04/07/Python-WSGI接口/index.html
 categories:
-  - python
+- python
 date: '2017-04-07T21:41:08'
 description: ''
 tags:
-  - web
-  - wsgi
+- web
+- wsgi
 title: Python-WSGI接口
 ---
+
+
+
+
+
 
 
 

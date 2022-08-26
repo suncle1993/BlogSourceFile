@@ -1,14 +1,21 @@
 ---
+abbrlink: 4185465434
+alias: 2019/11/13/Lu-Rong-behavioral-finance/index.html
 categories:
-  - 投资
+- 投资
 date: '2019-11-13T20:31:36'
 description: ''
 tags:
-  - 行为金融学
-  - 陆蓉
-  - 总结
+- 行为金融学
+- 陆蓉
+- 总结
 title: 陆蓉的行为金融学
 ---
+
+
+
+
+
 
 
 

@@ -1,15 +1,22 @@
 ---
+abbrlink: 3541559492
+alias: 2017/03/24/Python网络编程/index.html
 categories:
-  - python
+- python
 date: '2017-03-24T22:44:37'
 description: ''
 tags:
-  - Python
-  - 网络
-  - socket
-  - socketServer
+- Python
+- 网络
+- socket
+- socketServer
 title: Python网络编程
 ---
+
+
+
+
+
 
 
 

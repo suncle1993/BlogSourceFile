@@ -1,13 +1,20 @@
 ---
+abbrlink: 2653888341
+alias: 2018/04/11/FilmReview-Ready-Player-One/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2018-04-11T01:02:24'
 description: ''
 tags:
-  - 影评
-  - 头号玩家
+- 影评
+- 头号玩家
 title: 影评：Ready Player One
 ---
+
+
+
+
+
 
 
 

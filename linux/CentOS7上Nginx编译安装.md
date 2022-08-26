@@ -1,14 +1,21 @@
 ---
+abbrlink: 3934221547
+alias: 2017/03/30/CentOS7上Nginx编译安装/index.html
 categories:
-  - linux
+- linux
 date: '2017-03-30T14:29:45'
 description: ''
 tags:
-  - CentOS
-  - Nginx
-  - 安装
+- CentOS
+- Nginx
+- 安装
 title: CentOS7-Nginx编译安装
 ---
+
+
+
+
+
 
 
 

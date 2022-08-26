@@ -1,15 +1,22 @@
 ---
+abbrlink: 161615340
+alias: 2016/03/28/运维人员常用的Linux命令总结/index.html
 categories:
-  - linux
+- linux
 date: '2016-03-28T10:35:56'
 description: ''
 tags:
-  - 运维
-  - Linux
-  - 命令
-  - 总结
+- 运维
+- Linux
+- 命令
+- 总结
 title: 运维人员常用的Linux命令总结
 ---
+
+
+
+
+
 
 
 ---

@@ -1,13 +1,20 @@
 ---
+abbrlink: 2323272316
+alias: 2016/12/04/filling-hols-series-general-catalogue-of-basic-knowledge/index.html
 categories:
-  - python
+- python
 date: '2016-12-04T22:47:10'
 description: ''
 tags:
-  - 基础
-  - Python
+- 基础
+- Python
 title: 【填坑系列】Python基础知识总目录
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 2982437467
+alias: 2018/12/27/wechat-order-evolution/index.html
 categories:
-  - 工程实践
+- 工程实践
 date: '2018-12-27T16:54:05'
 description: ''
 tags:
-  - 微信点餐
-  - 演变
+- 微信点餐
+- 演变
 title: 微信点餐的需求和技术演变
 ---
+
+
+
+
+
 
 
 

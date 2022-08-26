@@ -1,11 +1,18 @@
 ---
-title: 关于Differentiated Services Field (DS Field)的诸多疑问
-date: '2014-11-22T14:22:34'
+abbrlink: 3942077063
+alias: 2014/11/22/关于Differentiated Services Field (DS Field)的诸多疑问/index.html
 categories:
-  - 协议
+- 协议
+date: '2014-11-22T14:22:34'
 tags:
-  - Wireshark
+- Wireshark
+title: 关于Differentiated Services Field (DS Field)的诸多疑问
 ---
+
+
+
+
+
 
 先上疑问截图：
 

@@ -1,19 +1,26 @@
 ---
+abbrlink: 989454082
+alias: 2016/01/10/Linux vi的使用/index.html
 categories:
-  - linux
+- linux
 date: '2016-01-10T14:15:34'
 description: ''
 id: 179
 tags:
-  - CentOS
-  - Linux
-  - vi
-  - vim
-  - 总结
-  - 模式
-  - 配置
+- CentOS
+- Linux
+- vi
+- vim
+- 总结
+- 模式
+- 配置
 title: Linux vi的使用
 ---
+
+
+
+
+
 
 
 

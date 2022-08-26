@@ -1,16 +1,23 @@
 ---
+abbrlink: 2940837129
+alias: 2015/12/27/Linux规划、安装、远程管理/index.html
 categories:
-  - linux
+- linux
 date: '2015-12-27T23:43:53'
 description: ''
 id: 162
 tags:
-  - CentOS
-  - Linux
-  - 安装
-  - 远程管理
+- CentOS
+- Linux
+- 安装
+- 远程管理
 title: Linux规划、安装、远程管理
 ---
+
+
+
+
+
 
 
 

@@ -1,14 +1,21 @@
 ---
+abbrlink: 574625734
+alias: 2017/12/14/Erlang入门路线/index.html
 categories:
-  - erlang
+- erlang
 date: '2017-12-14T14:33:30'
 description: ''
 tags:
-  - Erlang
-  - 总结
-  - 入门
+- Erlang
+- 总结
+- 入门
 title: Erlang入门路线
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 1788341412
+alias: 2016/02/19/PLSQL/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-02-19T22:45:12'
 description: ''
 tags:
-  - plsql
-  - Oracle
+- plsql
+- Oracle
 title: plsql
 ---
+
+
+
+
+
 
 
 **PL/SQL**

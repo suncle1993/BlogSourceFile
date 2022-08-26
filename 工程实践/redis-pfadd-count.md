@@ -1,12 +1,19 @@
 ---
+abbrlink: 1014846652
+alias: 2021/07/27/redis-pfadd-count/index.html
 categories:
-  - 工程实践
+- 工程实践
 date: '2021-07-27T14:56:47'
 tags:
-  - redis
-  - HyperLogLog
+- redis
+- HyperLogLog
 title: redis统计送礼人数
 ---
+
+
+
+
+
 
 
 在Hago的营收活动中， 我们经常要记录的一个数据是送礼用户数，作为活动对于用户的吸引程度的一个关键指标。

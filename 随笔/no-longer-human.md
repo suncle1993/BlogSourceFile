@@ -1,12 +1,19 @@
 ---
+abbrlink: 3556988704
+alias: 2019/03/02/no-longer-human/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2019-03-02T16:40:55'
 description: ''
 tags:
-  - 人间失格
+- 人间失格
 title: 人间失格
 ---
+
+
+
+
+
 
 
 

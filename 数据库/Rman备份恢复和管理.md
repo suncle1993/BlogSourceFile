@@ -1,14 +1,21 @@
 ---
+abbrlink: 4122458799
+alias: 2016/03/18/Rman备份恢复和管理/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-18T15:47:01'
 description: ''
 tags:
-  - Rman
-  - 备份
-  - 恢复
+- Rman
+- 备份
+- 恢复
 title: Rman备份恢复和管理
 ---
+
+
+
+
+
 
 
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-Rman%E7%BB%84%E4%BB%B6.jpg)

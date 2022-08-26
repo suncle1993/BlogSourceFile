@@ -1,14 +1,21 @@
 ---
+abbrlink: 3005931287
+alias: 2017/01/12/Python拉链法和开地址法实现字典/index.html
 categories:
-  - python
+- python
 date: '2017-01-12T17:14:43'
 description: ''
 tags:
-  - Python
-  - 拉链法
-  - 字典
+- Python
+- 拉链法
+- 字典
 title: Python拉链法和开地址法实现字典
 ---
+
+
+
+
+
 
 
 

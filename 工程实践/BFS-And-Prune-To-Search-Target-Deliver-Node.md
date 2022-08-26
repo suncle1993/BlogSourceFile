@@ -1,14 +1,21 @@
 ---
+abbrlink: 1409144931
+alias: 2018/03/24/BFS-And-Prune-To-Search-Target-Deliver-Node/index.html
 categories:
-  - 工程实践
+- 工程实践
 date: '2018-03-24T19:46:25'
 description: ''
 tags:
-  - BFS
-  - 剪枝
-  - 搜索
+- BFS
+- 剪枝
+- 搜索
 title: BFS+剪枝查找目标转推流节点
 ---
+
+
+
+
+
 
 
 

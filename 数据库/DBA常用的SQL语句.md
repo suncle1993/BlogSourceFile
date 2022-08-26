@@ -1,13 +1,20 @@
 ---
+abbrlink: 1301073950
+alias: 2016/03/16/DBA常用的SQL语句/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-16T11:07:19'
 description: ''
 tags:
-  - DBA
-  - SQL
+- DBA
+- SQL
 title: DBA常用的SQL语句
 ---
+
+
+
+
+
 
 
 ----

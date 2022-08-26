@@ -1,14 +1,21 @@
 ---
+abbrlink: 237932940
+alias: 2019/05/13/northwest-circle/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2019-05-13T00:20:19'
 description: ''
 tags:
-  - 西北环线
-  - 敦煌
-  - 旅行
+- 西北环线
+- 敦煌
+- 旅行
 title: 飞奔在路上--西北大环线
 ---
+
+
+
+
+
 
 
 

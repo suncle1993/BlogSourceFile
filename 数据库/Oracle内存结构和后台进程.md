@@ -1,14 +1,21 @@
 ---
+abbrlink: 943732234
+alias: 2016/03/16/Oracle内存结构和后台进程/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-16T11:22:28'
 description: ''
 tags:
-  - Oracle
-  - 内存结构
-  - 后台进程
+- Oracle
+- 内存结构
+- 后台进程
 title: Oracle内存结构和后台进程
 ---
+
+
+
+
+
 
 
 

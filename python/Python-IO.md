@@ -1,16 +1,23 @@
 ---
+abbrlink: 3838453869
+alias: 2017/02/13/Python-IO/index.html
 categories:
-  - python
+- python
 date: '2017-02-13T23:36:16'
 description: ''
 tags:
-  - IO
-  - 文件
-  - 目录
-  - 上下文
-  - 序列化
+- IO
+- 文件
+- 目录
+- 上下文
+- 序列化
 title: Python IO
 ---
+
+
+
+
+
 
 
 

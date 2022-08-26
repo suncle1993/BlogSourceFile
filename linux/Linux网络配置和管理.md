@@ -1,14 +1,21 @@
 ---
+abbrlink: 506153548
+alias: 2016/01/22/Linux网络配置和管理/index.html
 categories:
-  - linux
+- linux
 date: '2016-01-22T19:59:15'
 description: ''
 tags:
-  - Linux
-  - 网络
-  - CentOS
+- Linux
+- 网络
+- CentOS
 title: Linux网络配置和管理
 ---
+
+
+
+
+
 
 
 

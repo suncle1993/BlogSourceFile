@@ -1,15 +1,22 @@
 ---
+abbrlink: 2033838900
+alias: 2017/02/15/Python装饰器/index.html
 categories:
-  - python
+- python
 date: '2017-02-15T19:34:59'
 description: ''
 tags:
-  - Python
-  - 装饰器
-  - 元信息
-  - 柯里化
+- Python
+- 装饰器
+- 元信息
+- 柯里化
 title: Python装饰器
 ---
+
+
+
+
+
 
 
 

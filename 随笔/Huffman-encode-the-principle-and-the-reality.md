@@ -1,14 +1,21 @@
 ---
+abbrlink: 3045060095
+alias: 2019/11/26/Huffman-encode-the-principle-and-the-reality/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2019-11-26T10:36:51'
 description: ''
 tags:
-  - 哈夫曼
-  - 编码
-  - 投资
+- 哈夫曼
+- 编码
+- 投资
 title: 从哈夫曼编码再出发：原理和现实
 ---
+
+
+
+
+
 
 
 

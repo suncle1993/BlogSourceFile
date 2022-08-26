@@ -1,12 +1,19 @@
 ---
+abbrlink: 2194094500
+alias: 2020/12/14/best-practice-for-shit-code/index.html
 categories:
-  - 工程实践
+- 工程实践
 date: '2020-12-14T19:46:46'
 tags:
-  - shit code
-  - 规范性
+- shit code
+- 规范性
 title: 坚持住啊，还在屎山中爬行的同事们
 ---
+
+
+
+
+
 
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things."

@@ -1,13 +1,20 @@
 ---
+abbrlink: 2847555892
+alias: 2017/04/18/JavaScript基础/index.html
 categories:
-  - 前端
+- 前端
 date: '2017-04-18T23:00:20'
 description: ''
 tags:
-  - JavaScript
-  - 基础
+- JavaScript
+- 基础
 title: JavaScript基础
 ---
+
+
+
+
+
 
 
 

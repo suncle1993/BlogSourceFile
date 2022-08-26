@@ -1,14 +1,21 @@
 ---
+abbrlink: 1453323658
+alias: 2018/09/22/Silicon-Valley-Letters-Investment-Philosophy/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2018-09-22T00:26:10'
 description: ''
 tags:
-  - 硅谷来信
-  - 吴军
-  - 投资
+- 硅谷来信
+- 吴军
+- 投资
 title: 硅谷来信—投资哲学
 ---
+
+
+
+
+
 
 
 

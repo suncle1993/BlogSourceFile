@@ -1,13 +1,20 @@
 ---
+abbrlink: 1499000154
+alias: 2019/08/02/Comparison-of-the-Open-Source-OLAP-Systems-for-BigData/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2019-08-02T17:05:54'
 description: ''
 tags:
-  - Aliyun
-  - BigData
+- Aliyun
+- BigData
 title: 大数据OLAP系统比较
 ---
+
+
+
+
+
 
 
 

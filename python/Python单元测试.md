@@ -1,13 +1,20 @@
 ---
+abbrlink: 3953642204
+alias: 2017/11/14/Python单元测试/index.html
 categories:
-  - python
+- python
 date: '2017-11-14T20:01:27'
 description: ''
 tags:
-  - 单元测试
-  - 测试
+- 单元测试
+- 测试
 title: Python单元测试
 ---
+
+
+
+
+
 
 
 

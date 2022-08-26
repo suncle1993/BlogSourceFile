@@ -1,14 +1,21 @@
 ---
+abbrlink: 4062227706
+alias: 2018/04/16/Hadoop3-basic-installation-and-configuration/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2018-04-16T19:08:28'
 description: ''
 tags:
-  - Hadoop
-  - 安装
-  - 配置
+- Hadoop
+- 安装
+- 配置
 title: Hadoop3单机和伪分布式模式安装配置
 ---
+
+
+
+
+
 
 
 

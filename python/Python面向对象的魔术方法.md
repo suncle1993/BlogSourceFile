@@ -1,13 +1,20 @@
 ---
+abbrlink: 2725239063
+alias: 2017/03/15/Python面向对象的魔术方法/index.html
 categories:
-  - python
+- python
 date: '2017-03-15T20:55:20'
 description: ''
 tags:
-  - Python
-  - 面向对象
+- Python
+- 面向对象
 title: Python面向对象的魔术方法
 ---
+
+
+
+
+
 
 
 

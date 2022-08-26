@@ -1,15 +1,22 @@
 ---
+abbrlink: 2852429327
+alias: 2016/02/06/Oracle数据库的文件以及Oracle体系架构/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-02-06T21:27:16'
 description: ''
 tags:
-  - Oracle
-  - 体系架构
-  - CentOS
-  - 文件
+- Oracle
+- 体系架构
+- CentOS
+- 文件
 title: Oracle数据库的文件以及Oracle体系架构
 ---
+
+
+
+
+
 
 
 

@@ -1,12 +1,19 @@
 ---
+abbrlink: 3652260204
+alias: 2017/08/11/Erlang学习笔记(1)/index.html
 categories:
-  - erlang
+- erlang
 date: '2017-08-11T11:08:13'
 description: ''
 tags:
-  - Erlang
+- Erlang
 title: Erlang学习笔记(1)
 ---
+
+
+
+
+
 
 
 

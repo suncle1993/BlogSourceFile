@@ -1,13 +1,20 @@
 ---
+abbrlink: 1984966173
+alias: 2019/04/15/10-tang-poems/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2019-04-15T19:41:54'
 description: ''
 tags:
-  - 唐诗
-  - 思维
+- 唐诗
+- 思维
 title: 精选唐诗十首
 ---
+
+
+
+
+
 
 
 

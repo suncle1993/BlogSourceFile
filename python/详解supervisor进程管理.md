@@ -1,13 +1,20 @@
 ---
+abbrlink: 1143805574
+alias: 2017/09/25/详解supervisor进程管理/index.html
 categories:
-  - python
+- python
 date: '2017-09-25T17:05:22'
 description: ''
 tags:
-  - supervisor
-  - 进程
+- supervisor
+- 进程
 title: 详解supervisor进程管理
 ---
+
+
+
+
+
 
 
 

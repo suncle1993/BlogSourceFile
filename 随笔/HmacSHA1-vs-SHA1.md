@@ -1,14 +1,21 @@
 ---
+abbrlink: 631658428
+alias: 2018/02/01/HmacSHA1-vs-SHA1/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2018-02-01T14:55:27'
 description: ''
 tags:
-  - hmac
-  - sha
-  - crypto
+- hmac
+- sha
+- crypto
 title: HmacSHA1和原生SHA1的比较
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 24703687
+alias: 2018/09/05/vietnam-memory/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2018-09-05T00:56:06'
 description: ''
 tags:
-  - 越南
-  - 旅行
+- 越南
+- 旅行
 title: 越南记忆
 ---
+
+
+
+
+
 
 
 

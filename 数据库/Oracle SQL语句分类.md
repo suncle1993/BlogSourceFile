@@ -1,13 +1,20 @@
 ---
+abbrlink: 77751803
+alias: 2016/01/27/Oracle SQL语句分类/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-01-27T15:37:15'
 description: ''
 tags:
-  - Oracle
-  - SQL
+- Oracle
+- SQL
 title: Oracle SQL语句分类
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 3750596276
+alias: 2020/09/25/git-forbids-push-and-commit-on-master-branch/index.html
 categories:
-  - 效率
+- 效率
 date: '2020-09-25T13:25:35'
 description: ''
 tags:
-  - hook
-  - git
+- hook
+- git
 title: git禁止在master分支push和commit
 ---
+
+
+
+
+
 
 
 

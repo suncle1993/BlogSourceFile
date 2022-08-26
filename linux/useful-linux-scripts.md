@@ -1,13 +1,20 @@
 ---
+abbrlink: 3898548677
+alias: 2019/03/30/useful-linux-scripts/index.html
 categories:
-  - linux
+- linux
 date: '2019-03-30T01:13:35'
 description: ''
 tags:
-  - Linux
-  - Bash
+- Linux
+- Bash
 title: 常用Linux脚本集锦
 ---
+
+
+
+
+
 
 
 

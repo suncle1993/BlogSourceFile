@@ -1,10 +1,17 @@
 ---
+abbrlink: 2646187180
+alias: 2020/12/14/2020-annual-report/index.html
+categories:
+- 年度总结
 date: '2020-12-14T19:52:15'
 draft: true
 title: 2020 Annual Report
-categories:
-  - 年度总结
 ---
+
+
+
+
+
 
 
 先通过一组数据看下2020年我到底都做了写什么：

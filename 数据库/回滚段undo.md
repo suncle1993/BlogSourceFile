@@ -1,13 +1,20 @@
 ---
+abbrlink: 1024884206
+alias: 2016/03/16/回滚段undo/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-16T14:42:45'
 description: ''
 tags:
-  - Undo
-  - Oracle
+- Undo
+- Oracle
 title: 回滚段undo
 ---
+
+
+
+
+
 
 
 ---

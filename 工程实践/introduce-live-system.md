@@ -1,14 +1,21 @@
 ---
+abbrlink: 2029292735
+alias: 2018/12/18/introduce-live-system/index.html
 categories:
-  - 工程实践
+- 工程实践
 date: '2018-12-18T20:48:22'
 description: ''
 tags:
-  - 直播
-  - cdn
-  - livego
+- 直播
+- cdn
+- livego
 title: 直播系统介绍
 ---
+
+
+
+
+
 
 
 

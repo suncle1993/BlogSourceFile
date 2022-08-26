@@ -1,12 +1,19 @@
 ---
+abbrlink: 3269224175
+alias: 2018/08/07/A-Dinner-At-Jack-Rose/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2018-08-07T00:22:31'
 description: ''
 tags:
-  - Dinner
+- Dinner
 title: 在杰克玫瑰的一顿晚餐
 ---
+
+
+
+
+
 
 
 

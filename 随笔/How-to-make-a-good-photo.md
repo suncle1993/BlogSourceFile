@@ -1,13 +1,20 @@
 ---
+abbrlink: 3506831377
+alias: 2019/06/16/How-to-make-a-good-photo/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2019-06-16T21:01:32'
 description: ''
 tags:
-  - 摄影
-  - 总结
+- 摄影
+- 总结
 title: 怎样拍出一张好照片
 ---
+
+
+
+
+
 
 
 

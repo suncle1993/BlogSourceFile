@@ -1,14 +1,21 @@
 ---
+abbrlink: 3452107703
+alias: 2016/03/16/Hexo博客换电脑步骤/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2016-03-16T20:23:24'
 description: ''
 tags:
-  - Hexo
-  - 多电脑
-  - github
+- Hexo
+- 多电脑
+- github
 title: Hexo博客换电脑步骤
 ---
+
+
+
+
+
 
 
 ![](http://upload.chinaz.com/2015/1016/1444964380585.png)

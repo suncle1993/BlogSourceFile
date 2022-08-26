@@ -1,12 +1,19 @@
 ---
+abbrlink: 108767130
+alias: 2018/10/31/go2school-1/index.html
 categories:
-  - golang
+- golang
 date: '2018-10-31T20:26:54'
 description: ''
 tags:
-  - Go
+- Go
 title: go2school-1
 ---
+
+
+
+
+
 
 
 

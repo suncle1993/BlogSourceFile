@@ -1,14 +1,21 @@
 ---
+abbrlink: 3876715234
+alias: 2017/12/11/unix-domain-socket/index.html
 categories:
-  - 协议
+- 协议
 date: '2017-12-11T14:01:05'
 description: ''
 tags:
-  - unix
-  - socket
-  - IPC
+- unix
+- socket
+- IPC
 title: unix domain socket
 ---
+
+
+
+
+
 
 
 

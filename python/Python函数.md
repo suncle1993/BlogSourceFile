@@ -1,13 +1,20 @@
 ---
+abbrlink: 3371524817
+alias: 2017/01/07/Python函数/index.html
 categories:
-  - python
+- python
 date: '2017-01-07T22:08:51'
 description: ''
 tags:
-  - Python
-  - 函数
+- Python
+- 函数
 title: Python函数
 ---
+
+
+
+
+
 
 
 

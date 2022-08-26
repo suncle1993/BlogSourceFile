@@ -1,13 +1,20 @@
 ---
+abbrlink: 3578043157
+alias: 2019/03/31/migrate-blog-domain/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2019-03-31T01:00:56'
 description: ''
 tags:
-  - Hexo
-  - Nginx
+- Hexo
+- Nginx
 title: 博客域名迁移
 ---
+
+
+
+
+
 
 
 

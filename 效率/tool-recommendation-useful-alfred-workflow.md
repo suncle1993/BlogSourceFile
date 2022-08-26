@@ -1,12 +1,19 @@
 ---
+abbrlink: 441900336
+alias: 2020/12/09/tool-recommendation-useful-alfred-workflow/index.html
 categories:
-  - 效率
+- 效率
 date: '2020-12-09T12:44:56'
 tags:
-  - 工具
-  - chrome
+- 工具
+- chrome
 title: 神兵利器推荐——你一定不能错过的mac alfred工作流
 ---
+
+
+
+
+
 
 
 ![](https://suncle-public.oss-cn-shenzhen.aliyuncs.com/pics/article/efficiency-tools-alfred-workflow/alfred4.jpg)

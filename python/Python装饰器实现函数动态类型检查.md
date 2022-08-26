@@ -1,14 +1,21 @@
 ---
+abbrlink: 106366875
+alias: 2017/02/16/Python装饰器实现函数动态类型检查/index.html
 categories:
-  - python
+- python
 date: '2017-02-16T19:48:03'
 description: ''
 tags:
-  - inspect
-  - 装饰器
-  - 类型检查
+- inspect
+- 装饰器
+- 类型检查
 title: Python装饰器实现函数动态类型检查
 ---
+
+
+
+
+
 
 
 

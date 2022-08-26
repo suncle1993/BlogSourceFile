@@ -1,14 +1,21 @@
 ---
+abbrlink: 2332377615
+alias: 2016/03/16/RAC与DG/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-16T10:35:05'
 description: ''
 tags:
-  - Oracle
-  - RAC
-  - DG
+- Oracle
+- RAC
+- DG
 title: RAC与DG
 ---
+
+
+
+
+
 
 
 ## RAC

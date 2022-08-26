@@ -1,13 +1,20 @@
 ---
+abbrlink: 4183645254
+alias: 2019/07/27/clickhouse-create-distributed-table-and-table-engine-introduction/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2019-07-27T17:23:31'
 description: ''
 tags:
-  - clickhouse
-  - 分布式
+- clickhouse
+- 分布式
 title: Clickhouse创建分布式表以及表引擎介绍
 ---
+
+
+
+
+
 
 
 

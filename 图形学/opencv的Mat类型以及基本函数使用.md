@@ -1,13 +1,20 @@
 ---
+abbrlink: 2958280496
+alias: 2016/05/10/opencv的Mat类型以及基本函数使用/index.html
 categories:
-  - 图形学
+- 图形学
 date: '2016-05-10T22:01:34'
 description: ''
 tags:
-  - OpenCV
-  - Mat
+- OpenCV
+- Mat
 title: OpenCV的Mat类型以及基本函数使用
 ---
+
+
+
+
+
 
 
 

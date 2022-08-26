@@ -1,13 +1,20 @@
 ---
+abbrlink: 2688010521
+alias: 2019/05/08/brief-introduction-and-comparison-of-data-warehouse/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2019-05-08T10:58:43'
 description: ''
 tags:
-  - 数仓
-  - BigData
+- 数仓
+- BigData
 title: 数仓工作的简单介绍和对比
 ---
+
+
+
+
+
 
 
 

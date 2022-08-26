@@ -1,11 +1,18 @@
 ---
+abbrlink: 2372450090
+alias: 2020/10/26/new-year-day-go-to-emeishan/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2020-10-26T19:30:14'
 tags:
-  - 旅游
+- 旅游
 title: 元旦去峨眉山吧，人间值得
 ---
+
+
+
+
+
 
 
 每年到了10月底11月初的时候，就会开始计划一年一度的大学室友聚会。

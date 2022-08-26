@@ -1,12 +1,19 @@
 ---
+abbrlink: 2096485371
+alias: 2020/12/09/tool-recommendation-chrome-browser-extension/index.html
 categories:
-  - 效率
+- 效率
 date: '2020-12-09T11:06:53'
 tags:
-  - 工具
-  - chrome
+- 工具
+- chrome
 title: 神兵利器推荐——你一定不能错过的chrome插件
 ---
+
+
+
+
+
 
 
 最近有朋友问我，有没有什么可以提升效率的chrome插件推荐一下。我看了一下我的插件库，好用的还真不少。既然要推荐给一个人，还不如整理出来，分享给所有需要的人。毕竟，极致利他才能最终利己嘛。

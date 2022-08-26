@@ -1,14 +1,21 @@
 ---
+abbrlink: 599780751
+alias: 2016/12/13/filling-holes-series-python-workbook/index.html
 categories:
-  - python
+- python
 date: '2016-12-13T22:01:08'
 description: ''
 tags:
-  - practice
-  - 习题
-  - Python
+- practice
+- 习题
+- Python
 title: 【填坑系列】Python习题集
 ---
+
+
+
+
+
 
 
 

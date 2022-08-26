@@ -1,11 +1,18 @@
 ---
+abbrlink: 502431314
+alias: 2021/08/16/golang-concurrent-write-problem/index.html
 categories:
-  - golang
+- golang
 date: '2021-08-16T19:34:34'
 tags:
-  - 并发
+- 并发
 title: Golang Concurrent Write Problem
 ---
+
+
+
+
+
 
 
 分享几个golang并发写入的坑

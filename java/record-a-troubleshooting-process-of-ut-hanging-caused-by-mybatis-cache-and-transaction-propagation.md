@@ -1,14 +1,21 @@
 ---
+abbrlink: 1653833773
+alias: 2019/12/19/record-a-troubleshooting-process-of-ut-hanging-caused-by-mybatis-cache-and-transaction-propagation/index.html
 categories:
-  - java
+- java
 date: '2019-12-19T19:42:19'
 description: ''
 tags:
-  - mybatis
-  - 事务
-  - 缓存
+- mybatis
+- 事务
+- 缓存
 title: 记录一次mybatis缓存和事务传播行为导致ut挂的排查过程
 ---
+
+
+
+
+
 
 
 

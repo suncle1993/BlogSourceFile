@@ -1,13 +1,20 @@
 ---
+abbrlink: 2485322557
+alias: 2016/01/14/Linux的文件和文件系统的管理/index.html
 categories:
-  - linux
+- linux
 date: '2016-01-14T23:20:34'
 description: ''
 tags:
-  - 文件系统
-  - Linux
+- 文件系统
+- Linux
 title: Linux的文件和文件系统的管理
 ---
+
+
+
+
+
 
 
 

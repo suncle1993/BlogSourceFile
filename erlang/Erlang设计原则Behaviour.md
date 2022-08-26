@@ -1,16 +1,23 @@
 ---
+abbrlink: 2854299904
+alias: 2017/11/20/Erlang设计原则Behaviour/index.html
 categories:
-  - erlang
+- erlang
 date: '2017-11-20T16:29:01'
 description: ''
 tags:
-  - Erlang
-  - OTP
-  - Behaviour
-  - gen_server
-  - supervisor
+- Erlang
+- OTP
+- Behaviour
+- gen_server
+- supervisor
 title: Erlang设计原则Behaviour
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 2126162804
+alias: 2018/02/11/2017-year-end-summary/index.html
 categories:
-  - 年度总结
+- 年度总结
 date: '2018-02-11T23:57:27'
 description: ''
 tags:
-  - '2017'
-  - 总结
+- '2017'
+- 总结
 title: 2017年终总结
 ---
+
+
+
+
+
 
 
 

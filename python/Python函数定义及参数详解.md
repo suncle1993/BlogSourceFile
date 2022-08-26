@@ -1,13 +1,20 @@
 ---
+abbrlink: 3373145519
+alias: 2016/09/05/Python函数定义及参数详解/index.html
 categories:
-  - python
+- python
 date: '2016-09-05T19:40:25'
 description: ''
 tags:
-  - 函数
-  - 参数
+- 函数
+- 参数
 title: Python函数定义及参数详解
 ---
+
+
+
+
+
 
 
 

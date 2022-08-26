@@ -1,13 +1,20 @@
 ---
+abbrlink: 111129812
+alias: 2019/03/10/haidilao-management-philosophy/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2019-03-10T15:06:44'
 description: ''
 tags:
-  - 创业
-  - 经营
+- 创业
+- 经营
 title: 海底捞的经营哲学
 ---
+
+
+
+
+
 
 
 

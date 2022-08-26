@@ -1,9 +1,18 @@
 ---
-title: "追求不舒适的地方，直到整个世界都是我的家 -#1"
-date: 2022-03-11T23:57:37+08:00
-categories: ["newsletter"]
-tags: ["newletter"]
+abbrlink: 1172265047
+alias: 2022/03/11/newsletter-1/index.html
+categories:
+- newsletter
+date: 2022-03-11 15:57:37
+tags:
+- newletter
+title: 追求不舒适的地方，直到整个世界都是我的家 -#1
 ---
+
+
+
+
+
 
 这是 Suncle Lab 第一期，我会在这里更新 区块链、技术、金融、旅行相关的内容。每期都会同步发布在我[博客](https://suncle.me/)，欢迎你[邮箱订阅](https://suncle.zhubai.love/)，这样就可以第一时间收到更新推送。
 

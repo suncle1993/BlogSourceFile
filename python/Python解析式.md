@@ -1,13 +1,20 @@
 ---
+abbrlink: 2607945880
+alias: 2017/01/11/Python解析式/index.html
 categories:
-  - python
+- python
 date: '2017-01-11T22:44:30'
 description: ''
 tags:
-  - Python
-  - 解析式
+- Python
+- 解析式
 title: Python解析式
 ---
+
+
+
+
+
 
 
 

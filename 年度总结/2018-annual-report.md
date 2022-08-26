@@ -1,13 +1,20 @@
 ---
+abbrlink: 1256882137
+alias: 2019/01/12/2018-annual-report/index.html
 categories:
-  - 年度总结
+- 年度总结
 date: '2019-01-12T23:36:53'
 description: ''
 tags:
-  - '2018'
-  - 总结
+- '2018'
+- 总结
 title: 2018个人年度报告
 ---
+
+
+
+
+
 
 
 

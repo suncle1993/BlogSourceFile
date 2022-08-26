@@ -1,14 +1,21 @@
 ---
+abbrlink: 3325660628
+alias: 2016/03/22/PL-SQL-Developer连接本地Oracle-11g-64位数据库/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-22T11:02:40'
 description: ''
 tags:
-  - Oracle
-  - pl/sql
-  - 数据库
+- Oracle
+- pl/sql
+- 数据库
 title: PL/SQL Developer连接本地Oracle 11g 64位数据库
 ---
+
+
+
+
+
 
 
 ## 登陆PL/SQL

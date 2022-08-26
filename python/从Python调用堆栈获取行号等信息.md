@@ -1,14 +1,21 @@
 ---
+abbrlink: 139111991
+alias: 2017/10/31/从Python调用堆栈获取行号等信息/index.html
 categories:
-  - python
+- python
 date: '2017-10-31T09:43:51'
 description: ''
 tags:
-  - Python
-  - 堆栈
-  - inspect
+- Python
+- 堆栈
+- inspect
 title: 从Python调用堆栈获取行号等信息
 ---
+
+
+
+
+
 
 
 

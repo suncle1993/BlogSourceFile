@@ -1,13 +1,20 @@
 ---
+abbrlink: 575152847
+alias: 2017/11/08/重新认识http302重定向机制/index.html
 categories:
-  - 协议
+- 协议
 date: '2017-11-08T20:24:43'
 description: ''
 tags:
-  - Http
-  - 重定向
+- Http
+- 重定向
 title: 重新认识HTTP3xx重定向机制
 ---
+
+
+
+
+
 
 
 

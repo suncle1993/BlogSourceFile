@@ -1,13 +1,20 @@
 ---
+abbrlink: 1068104890
+alias: 2016/03/16/Oracle数据字典/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-16T10:23:40'
 description: ''
 tags:
-  - 数据字典
-  - Oracle
+- 数据字典
+- Oracle
 title: Oracle数据字典
 ---
+
+
+
+
+
 
 
 

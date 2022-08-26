@@ -1,9 +1,18 @@
 ---
-title: "“有用之用”还是“无用之用” -#4"
-date: 2022-07-10T17:56:37+08:00
-categories: ["newsletter"]
-tags: ["newletter"]
+abbrlink: 2599171020
+alias: 2022/07/10/newsletter-4/index.html
+categories:
+- newsletter
+date: 2022-07-10 09:56:37
+tags:
+- newletter
+title: “有用之用”还是“无用之用” -#4
 ---
+
+
+
+
+
 
 这是 Suncle Lab 第 4 期，我会在这里更新区块链、技术、金融、旅行和个人成长相关的内容。每期都会同步发布在我[博客](https://suncle.me/)，欢迎你[邮箱订阅](https://suncle.zhubai.love/)，这样就可以第一时间收到更新推送。
 

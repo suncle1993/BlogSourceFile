@@ -1,15 +1,22 @@
 ---
+abbrlink: 3043416172
+alias: 2017/05/22/Python实现通用web框架/index.html
 categories:
-  - python
+- python
 date: '2017-05-22T00:52:13'
 description: ''
 tags:
-  - web
-  - 框架
-  - 路由
-  - Python
+- web
+- 框架
+- 路由
+- Python
 title: Python实现通用web框架
 ---
+
+
+
+
+
 
 
 

@@ -1,20 +1,27 @@
 ---
+abbrlink: 1478974056
+alias: 2016/01/09/Linux用户和组管理/index.html
 categories:
-  - linux
+- linux
 date: '2016-01-09T00:16:04'
 description: ''
 id: 174
 tags:
-  - CentOS
-  - Linux
-  - 命令
-  - 总结
-  - 用户
-  - 管理
-  - 组
-  - 配置
+- CentOS
+- Linux
+- 命令
+- 总结
+- 用户
+- 管理
+- 组
+- 配置
 title: Linux用户和组管理
 ---
+
+
+
+
+
 
 
 

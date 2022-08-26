@@ -1,14 +1,21 @@
 ---
+abbrlink: 1140005001
+alias: 2017/04/14/Python-pymysql/index.html
 categories:
-  - python
+- python
 date: '2017-04-14T22:29:54'
 description: ''
 tags:
-  - pymysql
-  - mysql
-  - MariaDB
+- pymysql
+- mysql
+- MariaDB
 title: Python-pymysql
 ---
+
+
+
+
+
 
 
 

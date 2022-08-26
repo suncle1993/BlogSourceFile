@@ -1,13 +1,20 @@
 ---
+abbrlink: 3458774082
+alias: 2018/12/31/2018-must-do-and-must-go/index.html
 categories:
-  - 年度总结
+- 年度总结
 date: '2018-12-31T23:59:59'
 description: ''
 tags:
-  - '2018'
-  - 计划
+- '2018'
+- 计划
 title: 2018 must do and must go
 ---
+
+
+
+
+
 
 
 

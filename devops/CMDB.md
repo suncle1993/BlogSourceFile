@@ -1,13 +1,20 @@
 ---
+abbrlink: 3799691330
+alias: 2017/05/23/CMDB/index.html
 categories:
-  - devops
+- devops
 date: '2017-05-23T16:24:48'
 description: ''
 tags:
-  - CMDB
-  - Python
+- CMDB
+- Python
 title: 结合公司现状浅谈CMDB
 ---
+
+
+
+
+
 
 
 

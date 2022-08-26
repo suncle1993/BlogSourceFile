@@ -1,14 +1,21 @@
 ---
+abbrlink: 2633130510
+alias: 2018/05/09/Sqoop-Import-Export/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2018-05-09T15:17:50'
 description: ''
 tags:
-  - Sqoop
-  - HDFS
-  - Hadoop
+- Sqoop
+- HDFS
+- Hadoop
 title: Sqoop导入导出
 ---
+
+
+
+
+
 
 
 

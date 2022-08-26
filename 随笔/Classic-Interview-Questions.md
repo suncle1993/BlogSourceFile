@@ -1,14 +1,21 @@
 ---
+abbrlink: 1598096655
+alias: 2018/05/17/Classic-Interview-Questions/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2018-05-17T10:06:37'
 description: ''
 tags:
-  - 面试
-  - 整理
-  - 总结
+- 面试
+- 整理
+- 总结
 title: 经典面试题
 ---
+
+
+
+
+
 
 
 

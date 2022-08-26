@@ -1,14 +1,21 @@
 ---
+abbrlink: 3769256843
+alias: 2017/04/18/JavaScript函数和类/index.html
 categories:
-  - 前端
+- 前端
 date: '2017-04-18T23:00:29'
 description: ''
 tags:
-  - 函数
-  - 类
-  - JavaScript
+- 函数
+- 类
+- JavaScript
 title: JavaScript函数和类
 ---
+
+
+
+
+
 
 
 

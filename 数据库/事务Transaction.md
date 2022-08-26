@@ -1,14 +1,21 @@
 ---
+abbrlink: 3622600928
+alias: 2016/03/23/事务Transaction/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-23T11:00:22'
 description: ''
 tags:
-  - 事务
-  - Transaction
-  - Oracle
+- 事务
+- Transaction
+- Oracle
 title: 事务Transaction
 ---
+
+
+
+
+
 
 
 参考资料：

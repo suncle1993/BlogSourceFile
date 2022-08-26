@@ -1,11 +1,18 @@
 ---
-title: 使用Wireshark分析DNS时遇到的Epoch time
-date: '2014-11-21T19:09:00'
+abbrlink: 3968172928
+alias: 2014/11/21/使用Wireshark分析DNS时遇到的Epoch time/index.html
 categories:
-  - 协议
+- 协议
+date: '2014-11-21T19:09:00'
 tags:
-  - Wireshark
+- Wireshark
+title: 使用Wireshark分析DNS时遇到的Epoch time
 ---
+
+
+
+
+
 
 # 使用Wireshark分析DNS时遇到的Epoch time
 

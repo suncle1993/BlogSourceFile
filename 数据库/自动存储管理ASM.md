@@ -1,14 +1,21 @@
 ---
+abbrlink: 1415694062
+alias: 2016/03/21/自动存储管理ASM/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-21T10:08:50'
 description: ''
 tags:
-  - ASM
-  - 管理
-  - Oracle
+- ASM
+- 管理
+- Oracle
 title: 自动存储管理ASM
 ---
+
+
+
+
+
 
 
 

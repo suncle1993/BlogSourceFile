@@ -1,15 +1,22 @@
 ---
+abbrlink: 171915988
+alias: 2017/09/02/samba解决linux的svn问题/index.html
 categories:
-  - linux
+- linux
 date: '2017-09-02T00:53:01'
 description: ''
 tags:
-  - samba
-  - linux
-  - ubuntu
-  - svn
+- samba
+- linux
+- ubuntu
+- svn
 title: ubuntu16.04配置samba解决linux的svn使用舒适问题
 ---
+
+
+
+
+
 
 
 

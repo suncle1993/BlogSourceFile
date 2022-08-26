@@ -1,9 +1,18 @@
 ---
-title: "打破信息茧房-我主动获取信息的方法 -#3"
-date: 2022-07-02T14:46:37+08:00
-categories: ["newsletter"]
-tags: ["newletter"]
+abbrlink: 2734770981
+alias: 2022/07/02/newsletter-3/index.html
+categories:
+- newsletter
+date: 2022-07-02 06:46:37
+tags:
+- newletter
+title: 打破信息茧房-我主动获取信息的方法 -#3
 ---
+
+
+
+
+
 
 这是 Suncle Lab 第 3 期，我会在这里更新区块链、技术、金融、旅行和个人成长相关的内容。每期都会同步发布在我[博客](https://suncle.me/)，欢迎你[邮箱订阅](https://suncle.zhubai.love/)，这样就可以第一时间收到更新推送。
 

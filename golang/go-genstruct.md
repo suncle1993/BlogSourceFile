@@ -1,12 +1,19 @@
 ---
+abbrlink: 1939519946
+alias: 2021/07/27/go-genstruct/index.html
 categories:
-  - golang
+- golang
 date: '2021-07-27T15:36:52'
 tags:
-  - genstruct
-  - generator
+- genstruct
+- generator
 title: 仿MybatisGenerator：根据sql生成go struct
 ---
+
+
+
+
+
 
 
 # genstruct

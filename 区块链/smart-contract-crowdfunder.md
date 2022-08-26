@@ -1,11 +1,18 @@
 ---
+abbrlink: 3775562041
+alias: 2021/08/21/smart-contract-crowdfunder/index.html
 categories:
-  - 区块链
+- 区块链
 date: '2021-08-21T16:12:37'
 tags:
-  - Solidity
+- Solidity
 title: 智能合约案例-众筹
 ---
+
+
+
+
+
 
 
 一个众筹的智能合约示例，来源于 [learnxinyminutes](https://learnxinyminutes.com/docs/solidity/)

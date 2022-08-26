@@ -1,12 +1,19 @@
 ---
+abbrlink: 4045852110
+alias: 2020/08/30/programmer-teach-you-to-take-big-factory-offer/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2020-08-30T16:35:30'
 tags:
-  - 面试
-  - offer
+- 面试
+- offer
 title: 程序员小哥教你秋招拿大厂offer
 ---
+
+
+
+
+
 
 
 

@@ -1,14 +1,21 @@
 ---
+abbrlink: 3040323093
+alias: 2019/11/13/http-3xx-status-code/index.html
 categories:
-  - 工程实践
+- 工程实践
 date: '2019-11-13T20:14:44'
 description: ''
 tags:
-  - http
-  - 状态码
-  - 重定向
+- http
+- 状态码
+- 重定向
 title: 一次奇怪的http状态码改变
 ---
+
+
+
+
+
 
 
 

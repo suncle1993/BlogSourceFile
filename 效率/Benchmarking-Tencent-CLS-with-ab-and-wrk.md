@@ -1,14 +1,21 @@
 ---
+abbrlink: 599463755
+alias: 2018/02/01/Benchmarking-Tencent-CLS-with-ab-and-wrk/index.html
 categories:
-  - 效率
+- 效率
 date: '2018-02-01T18:46:45'
 description: ''
 tags:
-  - benchmark
-  - ab
-  - wrk
+- benchmark
+- ab
+- wrk
 title: 使用ab和wrk对腾讯CLS进行benchmark测试
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 3266734121
+alias: 2019/07/30/Aliyun-big-data-infrastructure-components-research/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2019-07-30T14:34:32'
 description: ''
 tags:
-  - Aliyun
-  - BigData
+- Aliyun
+- BigData
 title: 阿里云大数据基础组件调研
 ---
+
+
+
+
+
 
 
 

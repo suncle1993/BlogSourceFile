@@ -1,13 +1,20 @@
 ---
+abbrlink: 2675111456
+alias: 2018/11/15/go2school-2/index.html
 categories:
-  - golang
+- golang
 date: '2018-11-15T15:36:59'
 description: ''
 tags:
-  - Go
-  - Redis
+- Go
+- Redis
 title: go2school-2
 ---
+
+
+
+
+
 
 
 

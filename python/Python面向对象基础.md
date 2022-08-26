@@ -1,13 +1,20 @@
 ---
+abbrlink: 3226889536
+alias: 2017/03/08/Python面向对象基础/index.html
 categories:
-  - python
+- python
 date: '2017-03-08T12:22:42'
 description: ''
 tags:
-  - Python
-  - 面向对象
+- Python
+- 面向对象
 title: Python面向对象基础
 ---
+
+
+
+
+
 
 
 

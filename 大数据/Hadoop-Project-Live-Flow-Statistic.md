@@ -1,14 +1,21 @@
 ---
+abbrlink: 3914716723
+alias: 2018/05/16/Hadoop-Project-Live-Flow-Statistic/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2018-05-16T13:38:03'
 description: ''
 tags:
-  - 项目
-  - Hadoop
-  - 统计
+- 项目
+- Hadoop
+- 统计
 title: Hadoop项目：从cdn日志统计直播流量
 ---
+
+
+
+
+
 
 
 

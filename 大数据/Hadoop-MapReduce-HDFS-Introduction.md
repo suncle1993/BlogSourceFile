@@ -1,14 +1,21 @@
 ---
+abbrlink: 3530117200
+alias: 2018/04/16/Hadoop-MapReduce-HDFS-Introduction/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2018-04-16T19:08:21'
 description: ''
 tags:
-  - Hadoop
-  - MapReduce
-  - HDFS
+- Hadoop
+- MapReduce
+- HDFS
 title: Hadoop、MapReduce、HDFS介绍
 ---
+
+
+
+
+
 
 
 

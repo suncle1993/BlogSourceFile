@@ -1,13 +1,20 @@
 ---
+abbrlink: 326482037
+alias: 2016/03/16/DBA日常工作和职责/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-03-16T11:15:27'
 description: ''
 tags:
-  - DBA
-  - 职责
+- DBA
+- 职责
 title: DBA日常工作和职责
 ---
+
+
+
+
+
 
 
 ---

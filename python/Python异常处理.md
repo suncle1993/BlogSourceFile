@@ -1,13 +1,20 @@
 ---
+abbrlink: 668369792
+alias: 2017/03/05/Python异常处理/index.html
 categories:
-  - python
+- python
 date: '2017-03-05T20:28:17'
 description: ''
 tags:
-  - Python
-  - 异常处理
+- Python
+- 异常处理
 title: Python异常处理
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 1407336675
+alias: 2016/01/25/win7x64安装配置Oracle 11g R2数据库/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-01-25T10:41:46'
 description: ''
 tags:
-  - Oracle数据库
-  - 安装
+- Oracle数据库
+- 安装
 title: win7x64安装配置Oracle 11g R2数据库
 ---
+
+
+
+
+
 
 
 

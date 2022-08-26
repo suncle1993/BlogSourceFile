@@ -1,13 +1,20 @@
 ---
+abbrlink: 1516127351
+alias: 2017/03/16/Python描述器/index.html
 categories:
-  - python
+- python
 date: '2017-03-16T23:01:23'
 description: ''
 tags:
-  - Python
-  - 描述器
+- Python
+- 描述器
 title: Python描述器
 ---
+
+
+
+
+
 
 
 

@@ -1,11 +1,18 @@
 ---
-title: Wireshark中的Checksum 0x90c5 validation disabled问题
-date: '2014-11-21T20:57:34'
+abbrlink: 3302180417
+alias: 2014/11/21/Wireshark中的Checksum 0x90c5 validation disabled问题/index.html
 categories:
-  - 协议
+- 协议
+date: '2014-11-21T20:57:34'
 tags:
-  - Wireshark
+- Wireshark
+title: Wireshark中的Checksum 0x90c5 validation disabled问题
 ---
+
+
+
+
+
 
 # Wireshark中的Checksum: 0x90c5 [validation disabled]问题
 

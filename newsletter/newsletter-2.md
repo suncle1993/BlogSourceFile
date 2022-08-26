@@ -1,9 +1,18 @@
 ---
-title: "如何筹备一场感人的婚礼 -#2"
-date: 2022-06-24T23:57:37+08:00
-categories: ["newsletter"]
-tags: ["newletter"]
+abbrlink: 4048622437
+alias: 2022/06/24/newsletter-2/index.html
+categories:
+- newsletter
+date: 2022-06-24 15:57:37
+tags:
+- newletter
+title: 如何筹备一场感人的婚礼 -#2
 ---
+
+
+
+
+
 
 3月底拍婚纱照，然后开始正式筹备，5月1号开始陆续接待客人，5月2号婚前双方亲人的晚宴，5月3号婚礼最重要的日子。
 

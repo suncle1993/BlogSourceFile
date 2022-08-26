@@ -1,14 +1,21 @@
 ---
+abbrlink: 3225437283
+alias: 2019/11/13/how-to-consider-working-from-travel/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2019-11-13T20:14:34'
 description: ''
 tags:
-  - 感悟
-  - 旅行
-  - 采访
+- 感悟
+- 旅行
+- 采访
 title: 如何看待work from travel
 ---
+
+
+
+
+
 
 
 

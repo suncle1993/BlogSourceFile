@@ -1,14 +1,21 @@
 ---
+abbrlink: 973368527
+alias: 2016/01/22/Linux进程管理/index.html
 categories:
-  - linux
+- linux
 date: '2016-01-22T19:59:28'
 description: ''
 tags:
-  - Linux
-  - CentOS
-  - 进程管理
+- Linux
+- CentOS
+- 进程管理
 title: Linux进程管理
 ---
+
+
+
+
+
 
 
 

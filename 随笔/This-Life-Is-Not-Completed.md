@@ -1,13 +1,20 @@
 ---
+abbrlink: 3829424162
+alias: 2018/09/17/This-Life-Is-Not-Completed/index.html
 categories:
-  - 随笔
+- 随笔
 date: '2018-09-17T01:26:22'
 description: ''
 tags:
-  - 读书
-  - 总结
+- 读书
+- 总结
 title: 此生未完成
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 2203031021
+alias: 2016/12/01/oracle的userenv和nls-lang详解/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-12-01T22:53:09'
 description: ''
 tags:
-  - 字符集
-  - nls_lang
+- 字符集
+- nls_lang
 title: oracle的userenv和nls_lang详解
 ---
+
+
+
+
+
 
 
 

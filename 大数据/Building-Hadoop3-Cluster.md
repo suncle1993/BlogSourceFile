@@ -1,15 +1,22 @@
 ---
+abbrlink: 1943368759
+alias: 2018/05/03/Building-Hadoop3-Cluster/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2018-05-03T16:54:05'
 description: ''
 tags:
-  - 集群
-  - 搭建
-  - YARN
-  - Hadoop
+- 集群
+- 搭建
+- YARN
+- Hadoop
 title: 搭建Hadoop3集群
 ---
+
+
+
+
+
 
 
 

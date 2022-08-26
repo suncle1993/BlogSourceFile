@@ -1,13 +1,20 @@
 ---
+abbrlink: 1205905514
+alias: 2019/07/27/clickhouse-introduction-and-comparison-of-performance/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2019-07-27T14:13:26'
 description: ''
 tags:
-  - clickhouse
-  - 性能
+- clickhouse
+- 性能
 title: Clickhouse简介和性能对比
 ---
+
+
+
+
+
 
 
 

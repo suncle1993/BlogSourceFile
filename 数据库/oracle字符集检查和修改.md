@@ -1,13 +1,20 @@
 ---
+abbrlink: 1725623659
+alias: 2016/12/01/oracle字符集检查和修改/index.html
 categories:
-  - 数据库
+- 数据库
 date: '2016-12-01T22:51:15'
 description: ''
 tags:
-  - Oracle
-  - 字符集
+- Oracle
+- 字符集
 title: Oracle字符集检查和修改
 ---
+
+
+
+
+
 
 
 

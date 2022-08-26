@@ -1,11 +1,18 @@
 ---
-title: 关于OpenCV的stitching使用
-date: '2014-12-13T16:27:34'
+abbrlink: 4067358408
+alias: 2014/12/13/关于OpenCV的stitching使用/index.html
 categories:
-  - 图形学
+- 图形学
+date: '2014-12-13T16:27:34'
 tags:
-  - OpenCV
+- OpenCV
+title: 关于OpenCV的stitching使用
 ---
+
+
+
+
+
 
 配置环境：VS2010+OpenCV2.4.9
 

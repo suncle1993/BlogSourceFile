@@ -1,13 +1,20 @@
 ---
+abbrlink: 203828188
+alias: 2017/10/31/思考一次整体调整Python项目规范性的过程/index.html
 categories:
-  - 工程实践
+- 工程实践
 date: '2017-10-31T09:44:25'
 description: ''
 tags:
-  - Python
-  - 规范
+- Python
+- 规范
 title: 思考一次整体调整Python项目规范性的过程
 ---
+
+
+
+
+
 
 
 

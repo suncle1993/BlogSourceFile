@@ -1,14 +1,21 @@
 ---
+abbrlink: 4131151092
+alias: 2019/11/15/grafana-dashboard-export-and-import/index.html
 categories:
-  - devops
+- devops
 date: '2019-11-15T16:57:54'
 description: ''
 tags:
-  - Grafana
-  - Prometheus
-  - 监控
+- Grafana
+- Prometheus
+- 监控
 title: Grafana Dashboard 配置导入导出
 ---
+
+
+
+
+
 
 
 

@@ -1,16 +1,23 @@
 ---
+abbrlink: 2639636733
+alias: 2016/09/02/Python基本数据类型-list-tuple-dict-set/index.html
 categories:
-  - python
+- python
 date: '2016-09-02T21:20:51'
 description: ''
 tags:
-  - Python
-  - 列表
-  - 元组
-  - 字典
-  - 集合
+- Python
+- 列表
+- 元组
+- 字典
+- 集合
 title: Python基本数据类型-list-tuple-dict-set
 ---
+
+
+
+
+
 
 
 

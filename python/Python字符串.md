@@ -1,13 +1,20 @@
 ---
+abbrlink: 1609178714
+alias: 2016/08/30/Python字符串/index.html
 categories:
-  - python
+- python
 date: '2016-08-30T22:56:48'
 description: ''
 tags:
-  - Python
-  - 字符串
+- Python
+- 字符串
 title: Python字符串
 ---
+
+
+
+
+
 
 
 

@@ -1,13 +1,20 @@
 ---
+abbrlink: 3141272424
+alias: 2018/03/09/rtmp规范1-0/index.html
 categories:
-  - 协议
+- 协议
 date: '2018-03-09T13:52:45'
 description: ''
 tags:
-  - 规范
-  - rtmp
+- 规范
+- rtmp
 title: rtmp规范1.0
 ---
+
+
+
+
+
 
 
 

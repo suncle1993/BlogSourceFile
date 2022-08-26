@@ -1,13 +1,20 @@
 ---
+abbrlink: 858751997
+alias: 2016/12/04/Python答疑解惑/index.html
 categories:
-  - python
+- python
 date: '2016-12-04T22:47:22'
 description: ''
 tags:
-  - Python
-  - 经验
+- Python
+- 经验
 title: Python答疑解惑
 ---
+
+
+
+
+
 
 
 

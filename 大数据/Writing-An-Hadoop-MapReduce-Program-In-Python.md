@@ -1,14 +1,21 @@
 ---
+abbrlink: 2322046866
+alias: 2018/04/17/Writing-An-Hadoop-MapReduce-Program-In-Python/index.html
 categories:
-  - 大数据
+- 大数据
 date: '2018-04-17T15:54:21'
 description: ''
 tags:
-  - Hadoop
-  - Python
-  - MapReduce
+- Hadoop
+- Python
+- MapReduce
 title: 使用Python语言写Hadoop MapReduce程序
 ---
+
+
+
+
+
 
 
 
