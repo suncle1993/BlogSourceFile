@@ -28,7 +28,7 @@ title: Golang Concurrent Write Problem
 
 并发读写map的示例代码：
 
-```golang
+```go
 package util
 
 import "testing"
@@ -62,7 +62,7 @@ func TestMap(t *testing.T) {
 
 并发写map的示例代码：
 
-```golang
+```go
 func TestMap(t *testing.T) {
 	m := make(map[int]int)
 
@@ -99,7 +99,7 @@ sync.Map 有以下特性：
 
 并发安全的 sync.Map 演示代码如下：
 
-```golang
+```go
 func TestSyncMap(t *testing.T) {
 	var m sync.Map
 
@@ -133,7 +133,7 @@ sync.Map 没有提供获取 map 数量的方法，替代方法是在获取 sync.
 
 string是Go的内建类型，但对它的读写操作并非线程安全的，原因在于它的内部实际上是通过struct存储的，我们可以在runtime/string.go里面看到它的内部定义。
 
-```golang
+```go
 type stringStruct struct {
 	str unsafe.Pointer
 	len int
@@ -148,7 +148,7 @@ func stringStructOf(sp *string) *stringStruct {
 
 我们可以通过一个测试代码发现并发读写string的问题：
 
-```golang
+```go
 func TestString(t *testing.T) {
 	s := "0"
 	ch := make(chan string)
