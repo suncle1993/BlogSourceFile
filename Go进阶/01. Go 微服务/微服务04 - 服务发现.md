@@ -1,5 +1,4 @@
 ---
-hidden: true
 date: '2018-01-29T18:31:37'
 tags:
   - Go
