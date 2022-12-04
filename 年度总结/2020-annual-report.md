@@ -4,7 +4,7 @@ alias: 2020/12/14/2020-annual-report/index.html
 categories:
 - 年度总结
 date: '2020-12-14T19:52:15'
-draft: true
+hidden: true
 title: 2020 Annual Report
 ---
 
