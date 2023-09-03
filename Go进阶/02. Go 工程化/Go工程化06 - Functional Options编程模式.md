@@ -1,5 +1,5 @@
 ---
-date: '2018-01-29T18:31:37'
+date: 2018-01-29T18:31:37
 tags:
   - Go
   - 工程化
@@ -9,6 +9,7 @@ categories:
   - Go进阶
   - 02. Go 工程化
 abbrlink: 2456290388
+published: "false"
 ---
 
 https://coolshell.cn/articles/21146.html

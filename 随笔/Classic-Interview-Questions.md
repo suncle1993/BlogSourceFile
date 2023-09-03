@@ -595,8 +595,6 @@ nginx最常用的操作是：实现restful api的负载均衡，可以分发到�
 - 快照RDB：会在一个特定的间隔保存那个时间点的一个数据快照。
 - 追加AOF：会记录每一个服务器收到的写操作
 
-![redis-data-persistence](/Users/mac/Desktop/redis-data-persistence.jpg)
-
 #### 缓存穿透
 
 请求去查询一条压根儿数据库中根本就不存在的数据，也就是缓存和数据库都查询不到这条数据，但是请求每次都会打到数据库上面去。
@@ -625,10 +623,6 @@ nginx最常用的操作是：实现restful api的负载均衡，可以分发到�
    - 设置不同的失效时间：在一个基础的时间上加上或者减去一个范围内的随机值
 2. 事中：使用本地缓存 + Hystrix限流&降级,避免MySQL被打死
 3. 事后：开启redis持久化机制，从rdb或者aof尽快恢复缓存集群
-
-### MongoDB
-
-![mongodb-cluster](/Users/mac/Desktop/mongodb-cluster.jpg)
 
 ### Celery
 
